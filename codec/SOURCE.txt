@@ -1,0 +1,8 @@
+palic-2 sources snapshotted from https://github.com/vovach777/plt2
+branch: ctx5
+commit: 5569faae8efca72b32052d9bc1e53cb25b67d63f
+files:
+  palic-2/palic2.cpp
+  palic-2/CMakeLists.txt (palic-2r target omitted; sources not shipped)
+  palic-1/netpbm.hpp  (included by palic2.cpp as ../palic-1/netpbm.hpp)
+  third_party/fse/    (FSE sources listed in CMakeLists.txt, their headers, README, LICENSE)
